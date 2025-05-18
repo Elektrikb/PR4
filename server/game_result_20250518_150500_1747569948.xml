@@ -1,0 +1,16 @@
+<game>
+  <start_time>2025-05-18T15:05:00+03:00</start_time>
+  <end_time>2025-05-18T15:05:48+03:00</end_time>
+  <secret_code>4CM7</secret_code>
+  <players>
+    <player>
+      <id>2</id>
+      <attempts>10</attempts>
+    </player>
+    <player>
+      <id>1</id>
+      <attempts>10</attempts>
+    </player>
+  </players>
+  <winner>0</winner>
+</game>
